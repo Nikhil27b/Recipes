@@ -7,11 +7,12 @@ This is random recipe generator build with javascript
   - Responsive website
   
   
-  ## TODO
+  ### TODO
   - Suggested Recipes with Ingredients
   - Instructions to make a recipe 
   - Share the recipe with your friends 
   
-  
+  ### Use Recipe Generator 
+  https://nikhil27b.github.io/Recipes/
   
 
